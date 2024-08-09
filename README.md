@@ -1,2 +1,3 @@
 # c-tutorials
-C
+
+Basic data structures and algorithms
